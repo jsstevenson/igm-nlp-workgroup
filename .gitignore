@@ -1,0 +1,4 @@
+data/drug-label*
+data/drugsatfda_*
+data/fda_data.csv
+.ipynb_checkpoints
